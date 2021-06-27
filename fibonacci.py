@@ -5,6 +5,6 @@ def fibonacci(numOfIter):
         nextEleInFib = fibSeriesList[-1]+fibSeriesList[-2]
     return fibSeriesList
         
-
+ 
 print(fibonacci(5))
 print(fibonacci(10))
