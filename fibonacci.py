@@ -7,3 +7,4 @@ def fibonacci(numOfIter):
         
 
 print(fibonacci(5))
+print(fibonacci(10))
